@@ -1,0 +1,13 @@
+:root {
+    --max-width: 1920px;
+
+    --background: white;
+    --service-one: #acd4ec;
+    --service-two: #e6af90;
+    --footer: #96ddbc;
+    --links: #202020;
+    
+    --hover: #ff7f50;
+    --footerhover: #fefefe;
+
+}
